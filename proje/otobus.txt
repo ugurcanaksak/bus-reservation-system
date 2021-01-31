@@ -1,0 +1,40 @@
+B 1
+B 2
+B 3
+B 4
+B 5
+D 6 sa as 1 323
+B 7
+B 8
+B 9
+B 10
+B 11
+B 12
+B 13
+B 14
+B 15
+B 16
+D 17 gülnur aksak 1 4356
+B 18
+B 19
+B 20
+B 21
+B 22
+B 23
+B 24
+B 25
+B 26
+B 27
+D 28 ercan aksak 0 6781
+B 29
+B 30
+B 31
+B 32
+B 33
+B 34
+B 35
+B 36
+B 37
+B 38
+B 39
+B 40
